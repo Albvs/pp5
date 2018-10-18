@@ -9,3 +9,5 @@ Stworzenie repo na githubie, a potem
 git remote add origin https://github.com/Albvs/pp5.git
 git push -u origin master
 
+git log - sprawdzenie numow commitow
+git checkout nrcommita
